@@ -1,6 +1,6 @@
 {
   "name": "app-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Global environment variables for JS runtime",
   "main": "index.js",
   "scripts": {},
