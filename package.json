@@ -1,0 +1,24 @@
+{
+  "name": "app-env",
+  "version": "1.0.0",
+  "description": "Global environment variables for JS runtime",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipto/app-env.git"
+  },
+  "keywords": [
+    "env",
+    "var",
+    "environment",
+    "variables",
+    "browser"
+  ],
+  "author": "Neek Sandhu <neek.sandhu@chipto.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chipto/app-env/issues"
+  },
+  "homepage": "https://github.com/chipto/app-env#readme"
+}
